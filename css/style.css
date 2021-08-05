@@ -1,0 +1,25 @@
+* {
+  -web-kit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Cabin", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #152238;
+  float: left;
+  width: 100%;
+  margin: 0px;
+  position: relative;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:hover {
+  text-decoration: underline;
+}
